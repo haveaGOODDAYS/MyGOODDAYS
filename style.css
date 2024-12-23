@@ -54,11 +54,3 @@ body {
     padding: 0;
 }
 
-header {
-    background: linear-gradient(to right, #FFC0CB, #FFD1DC);
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-    border-radius: 0 0 30px 30px;
-}
-
