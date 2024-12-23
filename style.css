@@ -1,8 +1,8 @@
 body {
-    font-family: 'Poppins.zip', sans-serif;;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFF1F3;
+    background-color: #f4f4f4;
     color: #333;
 }
 #login-screen {
@@ -11,35 +11,19 @@ body {
     margin-top: 100px;
 }
 header {
-   background: linear-gradient(to right, #FFC0CB, #FFD1DC);
-    color: #fff;
-    text-align: center;
+    background-color: #333;
+    color: white;
     padding: 20px;
-    border-radius: 0 0 30px 30px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
 main {
     padding: 20px;
-}
-    button {
-    background-color: #FFD1DC;
-    color: Pink pastel;
-    border: none;
-    padding: 10px 20px;
-    margin: 20px;
-    font-size: 1.2em;
-    border-radius: 30px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-    button:hover {
-    background-color: #FFC0CB;
-    transform: scale(1.1);
 }
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #BDE0FE;
-    color: Light Blue;
+    background-color: #333;
+    color: white;
     position: fixed;
     width: 100%;
     bottom: 0;
@@ -47,10 +31,19 @@ footer {
 article h2 {
     color: #555;
 }
+/* Tambahkan kode baru di sini */
 body {
     background-color: #FFF1F3;
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
+}
+
+header {
+    background: linear-gradient(to right, #FFC0CB, #FFD1DC);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 0 0 30px 30px;
 }
 
